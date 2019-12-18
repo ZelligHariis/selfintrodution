@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+### Longking的自我策展
 
-You can use the [editor on GitHub](https://github.com/ZelligHariis/selfintrodution/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我是18网新3班 黄龙钦
+Python语言是我这个学期花费最多时间的一门课程了
+我平时也有自己练习关于Python语言的练习
+老师布置的练习也有及时完成
+我还掌握了一些Pygame模块的语言
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 大家都是做项目的人，我希望在认真做项目的同时也可以认识到师兄师姐
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZelligHariis/selfintrodution/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我对做好项目有充足的信心
+在[gittee ZelligHarris](https://gitee.com/Zellig)这个账号里可以找到我前两个学期的期末项目，可以以此作为参考
